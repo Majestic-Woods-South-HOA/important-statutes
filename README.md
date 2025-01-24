@@ -42,6 +42,7 @@ History: 1997 a. 79.
 (3) Payment of costs. If the court orders inspection and copying of the records demanded, it shall also order the corporation to pay the member’s costs, including reasonable attorney fees, incurred to obtain the order unless the corporation proves that it refused inspection in good faith because it had a reasonable basis for doubt about the right of the member to inspect the records demanded.
 
 (4) Restrictions on distribution of records. If the court orders inspection and copying of the records demanded, it may impose reasonable restrictions on the use or distribution of the records by the demanding member.
+
 History: 1997 a. 79.
 
 181. 1605 Limitations on use of membership list. Without consent of the board, a membership list or any part of a membership list may not be obtained or used by any person for any purpose unrelated to a member’s interest as a member. Without limiting the generality of the foregoing, without the consent of the board a membership list or any part of a membership list may not be used for any of the following:
