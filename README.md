@@ -1,4 +1,5 @@
-181. 1602 Inspection of records by members.
+181. 1602 
+Inspection of records by members.
 
 (1) Records at principal office. Subject to s. 181. 1603 (3), a member is entitled to inspect and copy, at a reasonable time and location specified by the corporation, any of the records of the corporation described in s. 181. 1601 (5) if the member gives the corporation written notice or a written demand at least 5 business days before the date on which the member wishes to inspect and copy.
 
