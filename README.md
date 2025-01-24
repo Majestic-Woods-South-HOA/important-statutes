@@ -22,19 +22,19 @@ History: 1997 a. 79.
 
 (1) Agents and attorneys. A member’s agent or attorney has the same inspection and copying rights as the member who the agent or attorney represents.
 
-(2) Copies. The right to copy records under s. 181.1602 includes, if reasonable, the right to receive copies made by photographic, xerographic, or other means.
+(2) Copies. The right to copy records under s. 181. 1602 includes, if reasonable, the right to receive copies made by photographic, xerographic, or other means.
 
 (3) Reasonable charges. The corporation may impose a reasonable charge, covering the costs of labor and material, for copies of any documents provided to the member. The charge may not exceed the estimated cost of production or reproduction of the records.
 
-(4) Date of membership list. The corporation may comply with a member’s demand to inspect the record of members under s. 181.1602 (2) (c) by providing the member with a list of its members that was compiled no earlier than the date of the member’s demand.
+(4) Date of membership list. The corporation may comply with a member’s demand to inspect the record of members under s. 181. 1602 (2) (c) by providing the member with a list of its members that was compiled no earlier than the date of the member’s demand.
 
 History: 1997 a. 79.
 
 181. 1604 Court-ordered inspection.
 
-(1) Records at principal office. If a corporation does not allow a member who complies with s. 181.1602 (1) to inspect and copy any records required by that subsection to be available for inspection, the circuit court for the county where the corporation’s principal office or, if none in this state, its registered office is located may summarily order inspection and copying of the records demanded at the corporation’s expense upon application of the member.
+(1) Records at principal office. If a corporation does not allow a member who complies with s. 181. 1602 (1) to inspect and copy any records required by that subsection to be available for inspection, the circuit court for the county where the corporation’s principal office or, if none in this state, its registered office is located may summarily order inspection and copying of the records demanded at the corporation’s expense upon application of the member.
 
-(2) Other records. If a corporation does not within a reasonable time allow a member to inspect and copy any other record, the member who complies with s. 181.1602 (2) and 
+(2) Other records. If a corporation does not within a reasonable time allow a member to inspect and copy any other record, the member who complies with s. 181. 1602 (2) and 
 
 (3) may apply to the circuit court for the county where the corporation’s principal office or, if none in this state, its registered office is located for an order to permit inspection and copying of the records demanded. The court shall dispose of an application under this subsection on an expedited basis.
 
@@ -63,6 +63,6 @@ History: 1997 a. 79.
 
 History: 1997 a. 79; 2001 a. 16.
 
-181. 1621 Report of indemnification to members. If a corporation indemnifies or advances expenses to a director under s. 181.0874, 181.0877 or 181.0881 in connection with a proceeding by or in the right of the corporation, the corporation shall report the indemnification or advance in writing to the members with or before the notice of the next meeting of members.
+181. 1621 Report of indemnification to members. If a corporation indemnifies or advances expenses to a director under s. 181. 0874, 181. 0877 or 181. 0881 in connection with a proceeding by or in the right of the corporation, the corporation shall report the indemnification or advance in writing to the members with or before the notice of the next meeting of members.
 
 History: 1997 a. 79.
